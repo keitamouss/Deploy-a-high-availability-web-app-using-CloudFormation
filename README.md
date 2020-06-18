@@ -12,7 +12,7 @@ Assume that one company is creating Instagram like application. Developers have 
 - `udagram_network-params.json`: Parameters file for network infrastructure.
 - `udagram_network_infra.yml`: creating networking resources for this project.
 - `udagram_servers-params.json`: Parameters file for servers .
-- `udagram_servers_infra.yml`: creating servers infrastructure .
+- `udagram_servers_infra.yml`: creating web server application infrastructure .
 - `Deploy_High_Availability_WebApp_Udagram.pdf`: Contains Evidence all ressources created for Udagram Web Application .
 - `cloud-init-output.log`: Log information for UserData scripts .
  
